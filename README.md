@@ -1,11 +1,8 @@
 # it.jp
-<style>
-table th:first-of-type {
-	width: 20px;
-}
-</style>
+
 id|日本語|英語|中国語
 --- | --- | --- | ---
+|<img width=20 />| | |
 1|（Ｅ）メール|mail|邮件
 2|(インター)ネット|(inter)net|因特网
 3|(インター)ネット・カフェ|(inter)net　cafe|网吧
