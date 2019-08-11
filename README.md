@@ -1,4 +1,9 @@
 # it.jp
+<style>
+table th:first-of-type {
+	width: 20px;
+}
+</style>
 id|日本語|英語|中国語
 --- | --- | --- | ---
 1|（Ｅ）メール|mail|邮件
